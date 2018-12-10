@@ -1,0 +1,31 @@
+
+
+.about-me-container img{
+    width:30%;
+    height:30%;
+    margin:5em;
+    border-radius:50%;
+
+
+}
+.about-me-container{
+    margin:3em;
+}
+.data{
+    width:50%;
+    height:50%
+}
+
+.about-me-title{
+    text-align: center;
+    font-size:3em;
+}
+.description{
+    display:flex;
+}
+.description p{
+    font-size:2em;
+}
+.latest{
+    text-align: center;
+}

@@ -1,0 +1,21 @@
+.nav-bar{
+    margin:0;
+    background: black;
+    color:white;
+    display:flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    padding:1.3em;
+
+}
+.nav-link{
+    color:white;
+    text-decoration: none;
+  margin-left:1.3em;
+padding:0.5em;
+}
+.nav-link-active {
+    text-decoration: none;
+    background-color: rgba(76, 76, 76, 0.7);
+    padding:0.5em;
+}
